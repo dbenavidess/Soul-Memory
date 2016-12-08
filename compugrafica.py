@@ -1,7 +1,7 @@
 import pygame
 import math
 import random
-ALTO=1024
+ALTO=640
 ANCHO=1024
 BLANCO=(255,255,255)
 ROJO=(255,0,0)
